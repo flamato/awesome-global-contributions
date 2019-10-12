@@ -65,6 +65,13 @@ The software behind Wikipedia
 * license: CC BY-SA 3.0
 * [website](https://www.mediawiki.org/wiki/MediaWiki) | [repo](https://phabricator.wikimedia.org/diffusion/)
 
+### OpenML
+OpenML wants to make machine learning and data analysis _simple_, _accessible_,	_collaborative_ and _open_. The benefits for Science, Scientists and Society are explained in the [README](https://github.com/openml/OpenML#what-is-openml)
+
+* rating: 5
+* license: BSD-3-Clause
+* [website](https://openml.org) | [repo](https://github.com/openml/OpenML/)
+
 ## SDG 9: Industry, Innovation and infrastructure
 
 ### Safecast

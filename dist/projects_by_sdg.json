@@ -233,6 +233,60 @@
         "Swing"
       ],
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "description": "OpenML wants to make machine learning and data analysis _simple_, _accessible_,\t_collaborative_ and _open_. The benefits for Science, Scientists and Society are explained in the [README](https://github.com/openml/OpenML#what-is-openml)\n",
+      "license": "BSD-3-Clause",
+      "name": "OpenML",
+      "programmingLanguages": [
+        "css",
+        "php",
+        "javascript",
+        "r",
+        "python",
+        ".net",
+        "java"
+      ],
+      "rating": 5,
+      "repoUrl": "https://github.com/openml/OpenML/",
+      "websiteUrl": "https://openml.org",
+      "contributionGuidelinesUrl": "https://github.com/openml/OpenML/blob/master/CONTRIBUTING.md",
+      "starsUrl": "https://img.shields.io/github/stars/openml/OpenML.svg?style=social&label=Star&maxAge=2592000",
+      "numberContributors": {
+        "url": "https://api.github.com/repos/openml/OpenML/stats/contributors",
+        "format": "json",
+        "accessor": "list"
+      },
+      "ratingComment": "Not yet rated (no metric defined yet)",
+      "otherLinks": [
+        {
+          "name": "Documentaton Page",
+          "link": "https://openml.github.io/OpenML/"
+        },
+        {
+          "name": "Python API",
+          "link": "https://github.com/openml/openml-python"
+        },
+        {
+          "name": "R API",
+          "link": "https://github.com/openml/openml-r"
+        },
+        {
+          "name": "Java API",
+          "link": "https://github.com/openml/java"
+        },
+        {
+          "name": "WEKA plugin",
+          "link": "https://github.com/openml/openml-weka"
+        }
+      ],
+      "frameworksUsed": [
+        "CodeIgniter"
+      ],
+      "licenseUrl": "https://github.com/openml/OpenML/blob/master/license.txt",
+      "naturalLanguages": [
+        "English"
+      ]
     }
   ],
   "9": [
