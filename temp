@@ -1,0 +1,54 @@
+
+  README.md:10:3
+  ✖    1:1   Missing or invalid Table of Contents                          remark-lint:awesome-toc
+  ✖   10:3   Incorrect indentation before bullet: remove 3 spaces          remark-lint:list-item-bullet-indent
+  ✖   10:6   Invalid list item link URL                                    remark-lint:awesome-list-item
+  ✖   11:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   13:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   15:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   17:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   19:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   21:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   23:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   25:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   27:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   29:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   31:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   33:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   35:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   37:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   39:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   41:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   43:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   45:10  Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   47:7   Don’t pad emphasis with inner spaces                          remark-lint:no-inline-padding
+  ✖   59:41  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖   68:34  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖   75:41  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖   84:37  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖   91:44  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖   98:36  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  105:40  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  114:51  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  120:54  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  128:35  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  135:34  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  144:35  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  153:40  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  162:38  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  170:35  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  178:36  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  185:34  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  194:41  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  203:35  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  210:36  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  219:60  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  226:35  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  235:36  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  243:45  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  251:37  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  260:37  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+  ✖  267:37  List item link and description must be separated with a dash  remark-lint:awesome-list-item
+
+  49 errors
+
